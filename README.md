@@ -1,3 +1,3 @@
 # {{ repository-name }}
 
-Project tagline.
+Project brief description.
