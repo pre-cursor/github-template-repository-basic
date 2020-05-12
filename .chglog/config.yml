@@ -2,7 +2,7 @@ style: github
 template: CHANGELOG.tpl.md
 info:
   title: CHANGELOG
-  repository_url: https://github.com/pre-cursor/github-template-repository-basic
+  # repository_url: https://github.com/your-organization/your-repository-name
 options:
   commits:
     # filters:
